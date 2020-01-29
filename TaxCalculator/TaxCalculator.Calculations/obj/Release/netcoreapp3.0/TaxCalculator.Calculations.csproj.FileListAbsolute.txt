@@ -1,0 +1,7 @@
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\bin\Release\netcoreapp3.0\TaxCalculator.Calculations.deps.json
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\bin\Release\netcoreapp3.0\TaxCalculator.Calculations.dll
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\bin\Release\netcoreapp3.0\TaxCalculator.Calculations.pdb
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\obj\Release\netcoreapp3.0\TaxCalculator.Calculations.AssemblyInfoInputs.cache
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\obj\Release\netcoreapp3.0\TaxCalculator.Calculations.AssemblyInfo.cs
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\obj\Release\netcoreapp3.0\TaxCalculator.Calculations.dll
+D:\Curriculum Vitae\_nowe cv po DN\rekrutacja\Sopra Steria\TaxCalculator\TaxCalculator\TaxCalculator.Calculations\obj\Release\netcoreapp3.0\TaxCalculator.Calculations.pdb
